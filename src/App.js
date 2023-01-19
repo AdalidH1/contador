@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <BarraSuperior />
-      {/* <Contador /> */}
+      <Contador />
       <Cartas />
     </div>
   );
